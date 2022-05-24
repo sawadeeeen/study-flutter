@@ -1,4 +1,6 @@
-https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/tutorial_introduction
+https://flutter.ctrnost.com/
 
 上記URLを見て、flutterを学習する
+
+
 
